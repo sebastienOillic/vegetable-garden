@@ -1,0 +1,23 @@
+{
+    "defaultPH" : 7,
+    "defaultSurface" : 150,
+    "vegTypes" : ["feuille", "fruit", "racine"],
+    "defaultFruits" : [
+        {
+            "name" : "Carotte",
+            "type" : "racine"
+        },
+        {
+            "name" : "Tomate",
+            "type" : "fruit"
+        },
+        {
+            "name" : "Pomme de terre",
+            "type" : "racine"
+        },
+        {
+            "name" : "Epinard",
+            "type" : "feuille"
+        }
+    ]
+}
